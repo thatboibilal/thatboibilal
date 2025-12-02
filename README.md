@@ -1,16 +1,26 @@
-## Hi there 👋
+# Bilal
 
-<!--
-**thatboibilal/thatboibilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile developer focused on building smooth, reliable apps with thoughtful interfaces.  
+I enjoy working end-to-end — from UI layouts to backend logic — keeping everything clean and maintainable.
 
-Here are some ideas to get you started:
+## Stack
+Flutter • Dart  
+React Native • JavaScript • TypeScript  
+Node.js • Express  
+Firebase • MongoDB  
+Git • Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+- Build mobile apps with clean structure  
+- Explore UI motion, responsiveness, and user experience  
+- Develop lightweight backend services  
+- Improve performance and simplify workflows  
+
+## Current Focus
+- Better state management patterns  
+- Production-ready mobile architecture  
+- Building small tools & utilities  
+
+## Links
+Portfolio (coming soon)  
+Instagram • Twitter/X • LinkedIn  
