@@ -1,7 +1,7 @@
 # Bilal
 
 Mobile developer focused on building smooth, reliable apps with thoughtful interfaces.  
-I enjoy working end-to-end — from UI layouts to backend logic — keeping everything clean and maintainable.
+I enjoy working end-to-end from UI layouts to backend logic keeping everything clean and maintainable.
 
 ## 🛠️ Stack
 Flutter • Dart  
